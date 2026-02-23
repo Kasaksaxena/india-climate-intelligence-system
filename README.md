@@ -18,7 +18,7 @@ A professional AI-powered Big Data platform for forecasting and detecting climat
 | `backend/app/routes` | **Backend (Me)** | Define API endpoints and data validation. |
 | `backend/ml/` | **ML(Gargi) ** | Train models in `notebooks/`, save `.pkl` in `saved_models/`. |
 | `backend/database/` | **DB (Mayank)** | Write Hive/PySpark queries to fetch Big Data from Hadoop. |
-| `frontend/(Devyani)` | **Frontend** | Build the UI/UX and visualize climate charts. |
+| `frontend/` | **Frontend (Devyani)** | Build the UI/UX and visualize climate charts. |
 
 ---
 
